@@ -1,0 +1,23 @@
+# Datos
+data/
+
+# Archivos grandes
+*.csv
+*.xlsx
+*.xls
+*.mpx
+*.pdf
+*.pptx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Variables de entorno
+.env
