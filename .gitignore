@@ -9,6 +9,11 @@ data/
 *.pdf
 *.pptx
 
+# Excepciones (sí subir estos archivos)
+!LLAN0095_total.csv
+!Caudal LLAN0095.xlsx
+!Coeficientes.xlsx
+
 # Python
 __pycache__/
 *.py[cod]
